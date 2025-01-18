@@ -1,5 +1,5 @@
 {
-  "name": "@himura-777/ajs-platforms",
+  "name": "@himura-777/ajs_platforms",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Himura-777/ajs-platforms.git"
+    "url": "git+https://github.com/Himura-777/ajs_platforms.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Himura-777/ajs-platforms/issues"
+    "url": "https://github.com/Himura-777/ajs_platforms/issues"
   },
-  "homepage": "https://github.com/Himura-777/ajs-platforms#readme",
+  "homepage": "https://github.com/Himura-777/ajs_platforms#readme",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.26.4",
