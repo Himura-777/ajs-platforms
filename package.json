@@ -1,5 +1,5 @@
 {
-  "name": "ajs-platforms",
+  "name": "@himura-777/ajs-platforms",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
